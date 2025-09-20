@@ -30,6 +30,6 @@ The Blinkit Sales Dashboard is an interactive Excel-based analytics tool designe
 - Interactive KPIs and dashboards improved decision-making speed and accuracy.
 - Automation and visualization reduced manual reporting effort, increasing overall operational efficiency.
 
-##Conclusion
+## Conclusion
 
 - The Blinkit Sales Dashboard successfully transformed raw sales data into meaningful insights through interactive KPIs and visualizations. By tracking sales, outlet performance, customer ratings, and product categories, the dashboard enabled faster, data-driven decisions. It not only improved reporting efficiency and analysis accuracy but also provided actionable insights to optimize sales strategies, enhance customer satisfaction, and strengthen overall business performance.
