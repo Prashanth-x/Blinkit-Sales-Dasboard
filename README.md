@@ -17,8 +17,8 @@ The Blinkit Sales Dashboard is an interactive Excel-based analytics tool designe
 -Dashboard Interaction <a href="https://docs.google.com/spreadsheets/d/18pfCibwTK59GaSMpP3R_xUf5ULWsmKfV/edit?usp=drive_link&ouid=101563721538267925028&rtpof=true&sd=true">View Dashboard</a>
 
 ## Process
--Data Collection & Cleaning: Gather sales, product, outlet, and customer rating data; remove duplicates and handle missing values.
--KPI Identification: Define metrics like Total Sales, Avg Sales, Items Sold, Ratings, and Outlet Performance.
--Pivot Tables & Calculations: Summarize data using Pivot Tables and Excel formulas for KPIs and trends.
--Dashboard Visualization: Create interactive charts, slicers, and heatmaps to display insights clearly.
--Analysis & Insights: Answer business questions, identify top-performing products/outlets, and optimize sales decisions.
+- Data Collection & Cleaning: Gather sales, product, outlet, and customer rating data; remove duplicates and handle missing values.
+- KPI Identification: Define metrics like Total Sales, Avg Sales, Items Sold, Ratings, and Outlet Performance.
+- Pivot Tables & Calculations: Summarize data using Pivot Tables and Excel formulas for KPIs and trends.
+- Dashboard Visualization: Create interactive charts, slicers, and heatmaps to display insights clearly.
+- Analysis & Insights: Answer business questions, identify top-performing products/outlets, and optimize sales decisions.
