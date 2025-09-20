@@ -1,2 +1,3 @@
-# Blinkit-Sales-Dasboard
-This project involves creating an interactive Excel dashboard to analyze Blinkit’s sales data across multiple outlets, product categories, and regions. The dashboard provides actionable insights to help optimize sales performance and business decisions.
+# Blinkit-Sales-Dasboard(Interactive Dashboard creation using MS Excel)
+## Project Objective
+The Blinkit Sales Dashboard is an interactive Excel-based analytics tool designed to analyze sales across multiple outlets, product categories, and regions. The dashboard visualizes key performance indicators (KPIs) and provides actionable insights for decision-making and sales optimization.
