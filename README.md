@@ -14,4 +14,4 @@ The Blinkit Sales Dashboard is an interactive Excel-based analytics tool designe
 - which outlet have more sales?
 -Which outlets need improvement in sales efficiency?
 
--Dashboard Interaction <a https://drive.google.com/file/d/18_RnwcBAyu8qChrLqueL_vx10ZL7wL4J/view?usp=drive_link">View Dashboard</a>
+-Dashboard Interaction <a href="https://drive.google.com/file/d/18_RnwcBAyu8qChrLqueL_vx10ZL7wL4J/view?usp=drive_link">View Dashboard</a>
